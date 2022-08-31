@@ -29,7 +29,6 @@ I'm a test engineer and security enthusiast. I am currently working on [MONAI](h
 ![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DB-MinIO-informational?style=flat&logo=minio&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Dagger-informational?style=flat&logo=dagger&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
