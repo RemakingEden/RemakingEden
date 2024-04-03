@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/RemakingEden?style=social) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joss-sparkes/)
 
-I'm a test engineer and security enthusiast. I have worked on [MONAI](https://monai.io/) an open source AI medical system and many other closed source projects. I also support open source projects such as [OWASP Wrong Secrets](https://github.com/commjoen/wrongsecrets) and the [EFF](https://www.eff.org/). 
+I'm a test engineer and security enthusiast. I have worked on [MONAI](https://monai.io/) an open source AI medical system and many other closed source projects with regular work. I also contribute to open source projects such as [OWASP Wrong Secrets](https://github.com/commjoen/wrongsecrets) and the [EFF](https://www.eff.org/) in my spare time. 
 
 ## &#x1f4c8; GitHub Stats
 
